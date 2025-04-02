@@ -1,0 +1,12 @@
+{
+    "description": "REST API to convert your waifu or husbu images to various available formats.",
+
+    "owner": {
+        "owner": "itsreimau",
+        "email": "private.iblmln@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "negroify.wosib11334.serv00.net"
+    }
+}
